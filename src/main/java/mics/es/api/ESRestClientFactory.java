@@ -1,6 +1,5 @@
 package mics.es.api;
 
-
 import mics.es.api.client.ESGlobalClientInfo;
 import org.elasticsearch.client.RestHighLevelClient;
 
