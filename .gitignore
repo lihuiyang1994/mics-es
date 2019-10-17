@@ -1,0 +1,35 @@
+HELP.md
+**/target/
+**/target/classes
+**/target/generated-sources
+**/target/generated-test-sources
+**/target/maven-*
+**/target/*.jar
+**/target/classes
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.DS_Store
+*.class
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+/mics-eureka/logs/
+/logs/
